@@ -5,7 +5,6 @@ import Card from "@mui/material/Card";
 
 import FlagIcon from '@mui/icons-material/Flag';
 import AppsIcon from '@mui/icons-material/Apps';
-
 // Material Kit 2 React components
 import MKBox from "../../components/MKBox";
 import MKTypography from "../../components/MKTypography";
